@@ -1,7 +1,8 @@
 # GK-coding
 
-Welcome to the GitHub for Graphical Kitties! 
-I put my coding projects and other things that I made over the past 3 years
+> "She graphic on my kitty until i-"
+> - Alexander Tran
 
-I code mainly in Python or C, but may expand to other languages like C# or Java.
-If you wish to run any of the programs, download VSCode by Microsoft and install the plugins for the language, then insert the code.
+## Welcome to Graphical Kitties
+This is a side project me, Alexander Tran, meant to show off all of the cool stuff I made over the 3 years here. 
+This GitHub shows off my programming projects only. If you want to see my other stuff (art, irl builds, etc.), head back to the yearbook page you found this on.
